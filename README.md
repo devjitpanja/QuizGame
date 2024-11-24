@@ -1,3 +1,4 @@
 # QuizGame
  
-[https://uploads.doupgrade.com/demo.mp4](https://github.com/devjitpanja/public-attachments/raw/refs/heads/main/AUDIO.mp4)
+<iframe src="https://uploads.doupgrade.com/demo.mp4" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
