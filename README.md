@@ -1,3 +1,3 @@
 # QuizGame
  
-![Video](https://uploads.doupgrade.com/demo.mp4)
+https://uploads.doupgrade.com/demo.mp4
